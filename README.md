@@ -19,7 +19,7 @@ None
 
 ### Project Structure
 
-* `hello.txt`: A minimal text file containing the string 'hello world!' as its sole content.
+* `hello.txt`: A minimal text file containing the string 'hello world!!' as its sole content.
 * `.gitignore`: A .gitignore file with cache files.
 * `README.md`: This README file with basic documentation and 'how to run' guide.
 
