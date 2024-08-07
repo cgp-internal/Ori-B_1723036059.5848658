@@ -1,0 +1,11 @@
+{
+    "hello.txt": {
+        "description": "A minimal text file containing the string 'hello world' as its sole content."
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    },
+    ".gitignore": {
+        "description": ".gitignore with cache files"
+    }
+}
